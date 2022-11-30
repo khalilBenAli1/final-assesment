@@ -1,0 +1,22 @@
+.header{
+    background-color: #3CC47C;
+    height: 100px;  
+}
+.logo{
+    float:left;
+    margin:20px;
+}
+ul{
+ display: flex;
+ float:right;
+}
+li{
+    margin: 20px;
+    list-style: none;
+    color:white;
+    
+}
+li:hover{
+    color:green;
+    cursor: pointer;
+}
